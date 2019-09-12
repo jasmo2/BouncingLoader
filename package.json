@@ -1,0 +1,14 @@
+{
+  "name": "bounce-three",
+  "version": "0.0.0",
+  "description": "React Native Animations Easing Example",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "prop-types": "15.7.2"
+  }
+}
